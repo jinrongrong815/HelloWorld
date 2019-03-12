@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
 
 ![image](https://github.com/jinrongrong815/img_folder/blob/master/Lab_1_1.png)
 
+Logcat中输出日志：
 
 ![image](https://github.com/jinrongrong815/img_folder/blob/master/Lab_1.png)
 
