@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
 
 结果截图：
 
-![image](https://github.com/jinrongrong815/img_folder/blob/master/Lab_1_1.png)
+<img weight="300" height="500" src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_1_1.png">
 
 Logcat中输出日志：
 
