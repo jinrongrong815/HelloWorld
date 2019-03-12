@@ -51,5 +51,8 @@ public class MainActivity extends AppCompatActivity {
 
 结果截图：
 
+![image](https://github.com/jinrongrong815/img_folder/blob/master/Lab_1_1.jpg)
+
+
 ![image](https://github.com/jinrongrong815/img_folder/blob/master/Lab_1.png)
 
