@@ -4,13 +4,13 @@
 
 # 一、实验内容
 
-1.创建Hello World工程并同步GitHub
+1、创建Hello World工程并同步GitHub
 
-2.验证Activity的生命周期 
+2、验证Activity的生命周期 
 
 # 二、实验关键代码：
 
-MainActivity.java
+***MainActivity.java***
 
 public class MainActivity extends AppCompatActivity {
 
