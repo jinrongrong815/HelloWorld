@@ -1,11 +1,14 @@
 # HelloWorld
-实验一：Android开发基础
+
+# 实验一：Android开发基础
+
+# 一、实验内容
 
 1.创建Hello World工程并同步GitHub
 
 2.验证Activity的生命周期 
 
-关键代码：
+# 二、实验关键代码：
 
 MainActivity.java
 
@@ -49,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-结果截图：
+# 三、实验结果截图：
 
 <img weight="300" height="500" src="https://github.com/jinrongrong815/img_folder/blob/master/Lab_1_1.png">
 
